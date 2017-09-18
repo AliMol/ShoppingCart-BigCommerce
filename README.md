@@ -4,11 +4,11 @@ Shopping Cart For BigCommerce Company
 
 Technologies Used in this application are :
 
-Angular 4.3.3
-Typescript Lang
-HTML 5
-CSS 3
-SASS as css preprocessor
+Angular 4.3.3  ,
+Typescript Lang   ,
+HTML 5  ,
+CSS 3   ,
+SASS as css preprocessor   ,
 WebPack 2
 
 ------------------------------------------------------------------------------------------------------------------
