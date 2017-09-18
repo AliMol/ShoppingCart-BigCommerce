@@ -2,14 +2,27 @@
 
 Shopping Cart For BigCommerce Company
 
-1 - git clone https://github.com/AliMol/ShoppingCart-BigCommerce.git
+Technologies Used in this application are :
 
-2 - open cmd.exe as administrator
+Angular 4.3.3
+Typescript Lang
+HTML 5
+CSS 3
+SASS as css preprocessor
+WebPack 2
 
-3 - cd into downloaded folder : ShoppingCart-BigCommerce
+------------------------------------------------------------------------------------------------------------------
 
-4 - run NPM install or YARN install
+1 - Install Node.js
 
-5 - run NPM Start to run the web application
+2 - git clone https://github.com/AliMol/ShoppingCart-BigCommerce.git
 
-6 - run npm test to run all the tests 
+3 - open cmd.exe as administrator
+
+4 - cd into downloaded folder : ShoppingCart-BigCommerce
+
+5 - run NPM install or YARN install
+
+6 - run NPM Start to run the web application
+
+7 - run npm test to run all the tests 
